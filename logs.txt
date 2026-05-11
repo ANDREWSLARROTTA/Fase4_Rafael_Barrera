@@ -1,0 +1,13 @@
+2026-05-11 11:14:59.400554 --> Cliente creado correctamente: Carlos Ramirez
+2026-05-11 11:14:59.404917 --> Error al registrar cliente: El nombre debe tener mínimo 3 caracteres
+2026-05-11 11:14:59.407010 --> Error al registrar cliente: Correo electrónico inválido
+2026-05-11 11:14:59.408245 --> Reserva creada correctamente
+2026-05-11 11:14:59.408620 --> Reserva confirmada
+2026-05-11 11:14:59.409749 --> Pago calculado correctamente: 428400.0
+2026-05-11 11:14:59.410128 --> Proceso de cálculo finalizado
+2026-05-11 11:14:59.411051 --> Error creando reserva: La duración de la reserva debe ser válida
+2026-05-11 11:14:59.411397 --> Reserva creada correctamente
+2026-05-11 11:14:59.411636 --> Reserva cancelada
+2026-05-11 11:14:59.411920 --> Error de conversión: invalid literal for int() with base 10: 'texto'
+2026-05-11 11:14:59.412268 --> Excepción encadenada: La conversión del dato del cliente falló
+2026-05-11 11:14:59.412548 --> Sistema ejecutado sin interrupciones
